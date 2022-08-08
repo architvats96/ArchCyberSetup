@@ -1,5 +1,5 @@
 # ArchCyberSetup
-## Discription
+## Description
 This repository consists of a python program which installs several cyber security tools in an arch based distro such as Manjaro. It is a configurable file where you can add the name of your desired program and it will install it. This tool makes use of the default repositories along with blackarch and AUR.
 
 ## Tool's List
@@ -9,6 +9,9 @@ aircrack-ng, autorecon, beef, burpsuite, dirbuster, dnsrecon, dnsenum, dnsutils,
 python3
 
 ## Usage
-python3 ArchCyberSetup.py
+1. Download my python program named ArchCyberSetup.py
+2. Open terminal
+3. Navigate to the directory where ArchCyberSetup.py has been downloaded
+4. Run the following command: python3 ArchCyberSetup.py
 
 ## Example
