@@ -13,5 +13,6 @@ python3
 2. Open terminal
 3. Navigate to the directory where ArchCyberSetup.py has been downloaded
 4. Run the following command: python3 ArchCyberSetup.py
+5. Enter your password when prompted
 
 ## Example
