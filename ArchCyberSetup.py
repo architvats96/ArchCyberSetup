@@ -65,6 +65,7 @@ def install_tools():                    # This is the main function which is use
     "recon-ng", 
     "reconnoitre", 
     "rpctools", 
+    "seclists", 
     "set", 
     "smbclient", 
     "smbmap", 
