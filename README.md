@@ -1,4 +1,6 @@
 # ArchCyberSetup
+[![CodeQL](https://github.com/architvats96/ArchCyberSetup/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/architvats96/ArchCyberSetup/actions/workflows/codeql.yml)
+---
 ## Description
 This repository consists of a python program which installs several cyber security tools in an arch based distro such as Manjaro. It is a configurable file where you can add the name of your desired program and it will install it. This tool makes use of the default repositories along with blackarch and AUR.
 
